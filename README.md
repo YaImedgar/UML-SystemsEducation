@@ -1,3 +1,3 @@
 # UML-SystemsEducation
  Учебный проект UML и ООП
-![image](https://user-images.githubusercontent.com/62895333/163684223-a61bcb54-b1a0-4e92-ac43-208ba7eb473f.png)
+![image](https://user-images.githubusercontent.com/62895333/163705293-29e262f3-0267-4b54-a62b-aa5dd35a9d9c.png)
