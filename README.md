@@ -39,4 +39,4 @@
 
 Диаграмма развёртывания:
 
-![image](https://user-images.githubusercontent.com/62895333/164970763-d727fa7e-97df-416a-ac9e-477ceab3959e.png)
+![image](https://user-images.githubusercontent.com/62895333/164973270-85b9064d-1196-456e-a496-2be59271c81e.png)
