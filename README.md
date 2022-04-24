@@ -1,6 +1,8 @@
 # UML-SystemsEducation
 Учебный проект UML и ООП
 
+Назначение ИС: Формирование аналитики по инвестиционному портфелю
+
 Диаграмма Use Case:
 ![image](https://user-images.githubusercontent.com/62895333/164970194-a134e66e-5cdf-49de-bb57-8d614f3a4c74.png)
 Диаграмма классов:
@@ -14,4 +16,5 @@
 
 ![image](https://user-images.githubusercontent.com/62895333/164970550-cf20142d-fe80-4baf-a11f-d8f717cbc8a9.png)
 
+Диаграмма развёртывания:
 ![image](https://user-images.githubusercontent.com/62895333/164970763-d727fa7e-97df-416a-ac9e-477ceab3959e.png)
