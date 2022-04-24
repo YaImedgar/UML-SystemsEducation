@@ -4,12 +4,17 @@
 Назначение ИС: Формирование аналитики по инвестиционному портфелю
 
 Диаграмма Use Case:
+
 ![image](https://user-images.githubusercontent.com/62895333/164970194-a134e66e-5cdf-49de-bb57-8d614f3a4c74.png)
 Диаграмма классов:
+
 ![image](https://user-images.githubusercontent.com/62895333/164970270-625133ff-83f5-440a-bd49-5daf8a84933c.png)
 Диаграмма объектов:
+
+
 ![image](https://user-images.githubusercontent.com/62895333/164970327-b17c0007-5282-40be-91ef-248968659e7d.png)
 Диаграмма состояний:
+
 ![image](https://user-images.githubusercontent.com/62895333/164970370-2047eba5-3ee2-4c9a-ac67-67bdf250ba54.png)
 
 
