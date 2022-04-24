@@ -12,9 +12,11 @@
 Диаграмма состояний:
 ![image](https://user-images.githubusercontent.com/62895333/164970370-2047eba5-3ee2-4c9a-ac67-67bdf250ba54.png)
 
-![image](https://user-images.githubusercontent.com/62895333/164970489-e785b35b-efe1-4b85-9ba9-fa630ddd6049.png)
 
 ![image](https://user-images.githubusercontent.com/62895333/164970550-cf20142d-fe80-4baf-a11f-d8f717cbc8a9.png)
+
+
+![image](https://user-images.githubusercontent.com/62895333/164970489-e785b35b-efe1-4b85-9ba9-fa630ddd6049.png)
 
 Диаграмма развёртывания:
 ![image](https://user-images.githubusercontent.com/62895333/164970763-d727fa7e-97df-416a-ac9e-477ceab3959e.png)
