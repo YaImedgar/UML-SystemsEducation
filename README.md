@@ -22,7 +22,6 @@
 
 Диаграмма объектов:
 
-
 ![image](https://user-images.githubusercontent.com/62895333/164970327-b17c0007-5282-40be-91ef-248968659e7d.png)
 
 Диаграмма состояний:
@@ -31,7 +30,8 @@
 
 Диаграмма деятельности:
 
-![image](https://user-images.githubusercontent.com/62895333/164970550-cf20142d-fe80-4baf-a11f-d8f717cbc8a9.png)
+![photo_2022-04-24_14-27-58](https://user-images.githubusercontent.com/62895333/164974246-dcb84569-ddcd-44ed-8921-43a9d6197c46.jpg)
+
 
 Диаграмма последовательности:
 
